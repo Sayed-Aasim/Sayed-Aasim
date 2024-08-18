@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sayed-Aasim
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning flutter Devolopment.
+- 🌱 Web Devoloper
 - 💞️ I’m looking to collaborate on Dart.
-- 📫 asims7908@gmai.com
+- 📫 asims7908@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
